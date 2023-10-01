@@ -11,7 +11,7 @@ fkmnthyfnbdyst cgjcj,s dfltktybz (__).
 
 ## изображения 
 
-чтобы вставить изображения нужно написать ![dota](1.jpg)
+чтобы вставить изображения нужно написать ![](https://techrocks.ru/wp-content/uploads/2019/02/git-logo_2.jpg)
 
 ## работа с таблицами 
 
